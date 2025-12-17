@@ -1,6 +1,6 @@
 Config = {}
 
-Config.debug = true
+Config.debug = false
 
 Config.distance_check = {
     min_distance = 20.0,
@@ -61,3 +61,4 @@ Config.vehicle_stripping = {
     damage_body = true,
     set_dirt_level = 1.0,
 }
+
