@@ -2,10 +2,8 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 's6la'
-description 'NPC Crime System - Automatic Vehicle Theft'
+description 'NPC Crime System'
 version '1.0.0'
-shared_script '@WaveShield/resource/include.lua'
-shared_script '@WaveShield/resource/waveshield.js'
 shared_scripts {
     'shared/config.lua'
 }
@@ -23,4 +21,5 @@ dependencies {
     'oeva_bridge',
     'oxmysql'
 }
+
 
